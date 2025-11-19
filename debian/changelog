@@ -1,0 +1,30 @@
+libhse-vmb-pveplugin (2.0.2.0) bookworm; urgency=low
+
+  * Resolves AVMB-6721.
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Thu, 23 Oct 2025 11:27:28 +0200
+
+libhse-vmb-pveplugin (2.0.1.0) bookworm; urgency=low
+
+  * Resolves AVMB-6553.
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Thu, 16 Oct 2025 11:40:16 +0200
+
+libhse-vmb-pveplugin (2.0.0.0) bookworm; urgency=low
+
+  * Resolves AVMB-6624.
+  * Library renamed from "libvmb-pveplugin" to "libhse-vmb-pveplugin".
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Thu, 25 Sep 2025 16:37:11 +0200
+
+libvmb-pveplugin (1.0.1.0) bookworm; urgency=low
+
+  * Resolves AVMB-6597.
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Thu, 21 Aug 2025 10:14:16 +0200
+
+libvmb-pveplugin (1.0.0.0) bookworm; urgency=low
+
+  * Initial VMB Proxmox plugins.
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Thu, 31 Jul 2025 13:37:00 +0200

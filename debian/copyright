@@ -1,0 +1,187 @@
+Copyright (c) 2025 Hornetsecurity Ltd 
+
+All rights reserved. 
+
+This software, libhse-vmb-pveplugin, is governed by the license agreement set out below and any updates thereto.
+
+This License Agreement (“License” or “EULA”) is a legal agreement between you (End-User or you) and HORNETSECURITY LIMITED, a limited liability company organized and existing under the laws of Malta, located at Hornetsecurity Limited, Block LS3 (Digital Hub), Level 1, Malta Life Sciences Park, San Gwann Industrial Estate, San Gwann, SGN3000, Malta (Hornetsecurity, Licensor, us or we). This License governs your use of the proprietary software components, including any applications, scripts, content files, instruction sets, and any related documentation, developed and owned by the Licensor (the “Licensed Software”).
+Important: The Licensed Software is provided in a software package (the “Software Package”) which may also contain third-party components, including but not limited to software licensed under the GNU Affero General Public License version 3 (AGPLv3). Those components are not licensed under this License Agreement. Their use is governed exclusively by the terms of their respective open-source licenses. You must comply with those licenses independently of this License Agreement.
+
+1. Warranties & Representations
+
+BY USING THE LICENSED SOFTWARE YOU WARRANT AND REPRESENT THAT:
+- YOU ARE OVER THE AGE OF 18, YOU ARE OF THE LEGAL AGE REQUIRED IN YOUR STATE, PROVINCE, JURISDICTION OR RESIDENCE AND YOU ARE LEGALLY CAPABLE OF ENTERING INTO THIS EULA;
+- YOU HAVE THE CAPACITY AND AUTHORITY TO BIND YOURSELF AND/OR THE PERSON/ENTITY IN WHOSE NAME THIS LICENSE IS BEING PURCHASED, AS APPLICABLE, TO THE TERMS AND CONDITIONS OF THIS EULA;
+- ON BEHALF OF YOURSELF AND/OR AS AN AUTHORISED REPRESENTATIVE OF THE PERSON/ENTITY IN WHOSE NAME THIS LICENSE WAS PURCHASED, AS APPLICABLE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS EULA;
+- YOU ARE A BUSINESS USER AND THAT YOU ARE ACTING IN A BUSINESS OR PROFESSIONAL CAPACITY. YOU ARE NOT ABLE TO USE OUR LICENSED SOFTWARE IF YOU ARE DEEMED TO BE A CONSUMER IN TERMS OF CONSUMER LAWS.
+ANY USE OF THE LICENSED SOFTWARE OTHER THAN PURSUANT TO THE TERMS AND CONDITIONS OF THIS EULA IS A VIOLATION OF COPYRIGHT LAWS AND CONVENTIONS.
+IF YOU QUALIFY AS A CONSUMER FOR THE PURPOSES OF THE CONSUMER AFFAIRS ACT (CHAPTER 378 OF THE LAWS OF MALTA), YOU ACKNOWLEDGE THAT UPON DOWNLOADING THE LICENSED SOFTWARE ONTO YOUR CHOSEN MEDIUM YOU RELINQUISH YOUR RIGHT TO WITHDRAW FROM THE CONTRACT ACCORDING TO LAW. YOU ACKNOWLEGE THAT YOU ARE ACCEPTING THIS LIMITATION TO YOUR RIGHT TO WITHDRAW FROM THE CONTRACT UPON DOWNLOADING THE LICENSED SOFTWARE. IF YOU DO NOT DOWNLOAD THE LICENSED SOFTWARE IMMEDIATELY, YOUR RIGHT TO FREELY WITHDRAW FROM THIS EULA IS LIMITED TO FOURTEEN (14) DAYS FROM DOWNLOADING.
+IF YOU ARE A CONSUMER AND YOU WITHDRAW FROM THIS EULA AS EXPRESSLY AUTHORISED AS PER THE ABOVE, YOU MAY RETURN THE LICENSED SOFTWARE TO THE AUTHORISED RESELLER OR DEALER FROM WHOM YOU OBTAINED IT FOR A FULL REFUND, OR CONTACT THE LICENSOR THROUGH ITS CUSTOMER CARE PROCEDURE ON ITS WEBSITE, PROVIDED THAT YOU DO SO WITHIN THIRTY (30) DAYS FROM THE DATE OF YOUR PURCHASE AND THE LICENSED SOFTWARE IS ACCOMPANIED BY ALL ORIGINAL DOCUMENTATION, PACKAGING MATERIALS AND PROOF OF PURCHASE.
+
+2. Grant of License Rights
+
+2.1. Production License
+
+Subject to your payment of the applicable license fee and full compliance with this EULA, the Licensor grants you the following rights:
+(a) A non-exclusive and non-transferable license to install and use a single copy of the executable code version of the Licensed Software, including any modifications, corrections or updates supplied to you by Licensor upon installation or under a Maintenance/Support program and all associated user manuals, release notes, installation notes, and other materials delivered with the Licensed Software in printed or electronic formats (“Documentation”) on a single workstation or server, without restriction to the number of individual “stand alone” backup drives (e.g., tape drives, optical drives, etc.) connected to said single workstation or server unless your purchased Production license expressly stipulates that it provides you with additional features;
+(b) The above right shall be perpetual, save for (i) termination as a result of your breach of these terms and (ii) the case where you are licensed under a Service Provider License Agreement (“SPLA”), where the duration of the right will be limited to the subscription period or as may be further regulated under the SPLA terms of the specified solution;
+(c) The right to make a single copy of the Licensed Software and Documentation for archival purposes, back-up or business continuity, provided you reproduce all the original Licensed Software’s proprietary matter including without limitation copyright notices, warnings, labels, trademarks and trade names (“Proprietary Matter”) contained in the original copy of the Licensed Software and Documentation and a notice that it will not be used for transfer, distribution or sale.
+
+2.2. Software Evaluation and Beta License
+
+(a) We may make the Licensed Software, a part or feature thereof available as a pre-release or beta version (“Beta Version”). You expressly acknowledge that by their nature, such Beta Versions are work-in-progress and as a result they may contain bugs, cause systems to crash or result in data loss. You agree to stop using such Beta Versions when we request you to do so.
+(b) Notwithstanding anything to the contrary contained in this EULA, if you are using a Beta or an Evaluation / Trial version of the Licensed Software and Documentation, your rights to use the Licensed Software and Documentation shall be subject to the following limitations:
+	i. your non-exclusive, non-transferable right to use and evaluate the Licensed Software and Documentation shall terminate thirty (30) days from the 	date of your initial installation of the Licensed Software (the “Evaluation License Period”) or as alternatively defined within the Beta or Early 	Access program;
+	ii. the Licensed Software and Documentation are furnished to you “AS IS” without warranty of any kind, including, but not limited to, implied 	warranties of quality and fitness for a particular purpose;
+	iii. the Licensed Software and Documentation may be used solely for Non-Commercial / Non-Production evaluation by you;
+	iv. the Licensed Software and Documentation are licensed to you without fee only for the Evaluation License Period;
+	v. no rights of ownership, copyright or other intellectual property in the Licensed Software are being transferred to you;
+	vi. at no time shall you transfer the Licensed Software or Documentation to any third party; and,
+	vii. you agree to and do hereby indemnify, defend and hold harmless the Licensor and its parent, subsidiary, or affiliate organizations, officers, 	agents, suppliers, distributors and authorized re-sellers from any and all claims, losses, damages and expenses (including reasonable attorneys’ 	fees, legal expenses and court costs) asserted by any third party due to or arising out of your breach of any provision of this EULA, your use of 	the Licensed Software and Documentation for evaluation purposes, your negligent or wrongful acts, and/or your violation of any applicable laws.
+(c) All terms and conditions of this EULA not specifically modified by clauses 2.2 (a) and 2.2 (b) above shall apply to Software licensed under an Evaluation or Beta License.
+
+2.3. Free license
+
+(a) On occasions, we may designate that a version of the Licensed Software is provided for free (i.e. without payment of any license fee) (“Free Version”).
+(b) The use of a Free Version is subject to any terms that are outlined in the respective software description page or solution terms made available by the Licensor.
+(c) Without prejudice to the aforementioned, a Free Version can be used in your own production environment in accordance with the terms and conditions of this EULA and notwithstanding anything to the contrary contained in this EULA, a Free Version shall be subject to the following limitations:
+	i. the Free Version and Documentation are furnished to you “AS IS” without warranty of any kind, including, but not limited to, implied warranties 	of quality and fitness for a particular purpose;
+	ii. the Free Version and Documentation are licensed to you without fee;
+	iii. you may not use the Free Version to provide services to third parties, integrate with third party software, or to process third party data. 	Free license versions can be used without additional purchase.
+	iv. no rights of ownership, copyright or other intellectual property in the Free Version are being transferred to you;
+	v. you are not entitled to support and maintenance or that Licensor provide any assistance regarding Free Version;
+	vi. you agree to and do hereby indemnify, defend and hold harmless the Licensor and its parent, subsidiary, or affiliate organizations, officers, 	agents, suppliers, distributors and authorized re-sellers from any and all claims, losses, any direct, actual or indirect damages and expenses 	(including reasonable attorneys’ fees, legal expenses and court costs) asserted by any third party due to or arising out of your breach of any 	provision of this EULA, your use of the Free Version and Documentation, your negligent or wrongful acts, and/or your violation of any applicable 	laws.
+(d) All terms and conditions of this EULA not specifically modified by clause 2.3 (a), (b) and (c) above shall apply to Free Versions.
+
+2.4. “Not for Resale” license
+
+(a) We may also choose to make Licensed Software or certain features thereof available for demonstration, test or internal use only purposes labelled as “Not for Resale” (collectively “NFR Software”). The license granted under an NFR License shall be for a term of one (1) year (the “Demonstration Period”) unless otherwise altered by Licensor, limited specifically for demonstration, test or internal use only purposes. Notwithstanding anything to the contrary contained in this EULA, if you acquired the NFR Software and Documentation, your rights to use the NFR Software and Documentation shall be subject to the following limitations:
+	i. you agree not to use NFR Software for resale purposes or to offer the solution for your customers;
+	ii. you may not use the NFR Software to provide services to third parties, integrate with third party software, or to process third party data.
+	iii. no rights of ownership, copyright or other intellectual property in the NFR Software are being transferred to you;
+	iv. you agree to and do hereby indemnify, defend and hold harmless the Licensor and its parent, subsidiary, or affiliate organizations, officers, 	agents, suppliers, distributors and authorized re-sellers from any and all claims, losses, any direct, actual or indirect damages and expenses 	(including reasonable attorneys’ fees, legal expenses and court costs) asserted by any third party due to or arising out of your breach of any 	provision of this EULA, your use of the NFR Licensed Software and Documentation, your negligent or wrongful acts, and/or your violation of any 	applicable laws.
+(b) All terms and conditions of this EULA not specifically modified by clause 2.4 (a) above shall apply to NFR Software.
+
+2.5. Third-Party Components
+
+Notwithstanding the terms and conditions of this EULA, all or any portion of the Licensed Software or any component of the Software Package which constitutes non-proprietary software provided under public licenses by third parties (“Freeware” or “Open Source”), is licensed to you subject to the terms and conditions of the software license agreement accompanying such Freeware or Open Source software whether in the form of a discrete agreement, shrink wrap license or electronic license terms accepted at the time of download. You acknowledge and agree that your rights and obligations regarding such Freeware or Open Source software shall be governed entirely by the terms and conditions of such license.
+Nothing in this EULA shall be interpreted as limiting, modifying, or imposing additional restrictions on your rights under the AGPLv3 or other applicable open-source licenses.
+
+3. Requirements & Restrictions
+
+3.1. Operating System Requirements
+
+The Licensed Software will only operate on hardware and systems that meet certain requirements as indicated in the Licensor’s Documentation. These requirements may be changed from time to time. It is in your interest to ensure that your operating system meets the published requirements at all times.
+
+3.2. Restrictions
+
+3.2.1. You shall not do or permit others to do any of the following:
+	i. copy the Licensed Software and Documentation except as provided in clause 2 above modify, translate, rent, lease, copy, re-sell, transfer, 	assign, sub-license, distribute, merge, vary or modify the Licensed Software and Documentation or any part thereof to any person or entity;
+	ii. make alterations to, or modifications of, the whole or any part of the Licensed Software or to the Software Package or permit the Licensed 	Software or any part of it to be combined with, or become incorporated in, any other programs or software solutions without a written approval from 	Us;
+	iii. save where you are expressly authorised to do so under a SPLA and within the limitations of such SPLA, use the Licensed Software or 	Documentation in connection with a service bureau or similar activity whereby you operate or use the Licensed Software or Documentation for the 	benefit of a third party who has not purchased a copy of the Licensed Software;
+	iv. remove Proprietary Matter from the Licensed Software and Documentation or modify, alter or obscure Proprietary Matter thereon;
+	v. to copy, adapt, reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the Licensed Software in whole or in part 	except as permitted by law. Provided that where you require the aforementioned information and/or code in order to achieve the interoperability of a 	computer program independently created by yourself, you shall first request the Licensor to provide such information (at the then applicable 	commercial rates). Any information and/or code so obtained (whether provided by the Licensor or independently procured) shall not:
+		- be used for purposes other than to achieve the interoperability of the computer program independently created by you;
+		- be given to other persons, except when necessary for the interoperability of the independently created computer program;
+		- be used for the development, production or marketing of a computer program substantially similar in its expression to the original program 		or for any other act which infringes copyright;
+		- provide, or otherwise make available, the Licensed Software in any form, in whole or in part (including but not limited to, program 			listings, public sharing website, object and source program listings, object code and source code) to any person other than your employees 		without prior written consent from us;
+		- use the Licensed Software via any communications network or by means of remote access;
+		- fail to comply with all applicable technology control or Export Restrictions (Clause 10).
+
+3.2.2. If you are a corporation or other business entity, you shall use your best efforts to prevent your employees, customers, contractors, subcontractors and agents from engaging in any of the above prohibited activities and to supervise and control the use of the Licensed Software by the said persons and ensure that the Licensed Software is used by such employees, customers, subcontractors and agents in accordance with the terms of this License.
+
+3.2.3. Although you own the media on which the Licensed Software and Documentation are recorded, the Licensor and/or its suppliers retain all rights, title and interest in and to (i) the Licensed Software and Documentation (including, without limitation, images, photographs, animations, video, audio, music, text and so-called “applets”), (ii) all copies, improvements, enhancements, modifications and derivative works of the Licensed Software or Documentation, and (iii) all patents, copyrights, trade secrets, trademarks and other intellectual property rights subsisting in the Licensed Software and Documentation and copies, improvements, enhancements, modifications and derivative works thereof.
+
+3.2.4. Your rights to use the Licensed Software and Documentation shall be limited to those expressly granted in clause 2 above. All rights not expressly granted to you are retained by Licensor and/or its suppliers. You agree to refrain from any action that would diminish such rights of the Licensor or would call such rights into question. The rights granted herein are limited to the Licensor’s copyright in the Licensed Software and do not include any other patents or intellectual property rights of the Licensor or third parties.
+
+4. Limited Warranties
+
+(a) Subject to the limitations and exclusions of liability below, the Licensor warrants that the Licensed Software as delivered by the Licensor and when used in accordance with the Documentation shall substantially conform with the functions described in the Documentation for a period of ninety (90) days from initial Licensed Software purchase. Licensor does not warrant that the Licensed Software will meet all of Your requirements or that the use of the Licensed Software will be uninterrupted or error-free. The warranty shall not apply if the Licensed Software fails to operate in accordance with the said warranty as a result of use in breach of these terms, accident, misuse, unauthorised repair, modification, enhancement, misapplication or failures that are caused by other software or hardware products.
+(b) For any Licensed Software that does not operate as warranted in clause 4(a) above, the Licensor shall, at its sole discretion, promptly repair the Licensed Software, replace the Licensed Software with software of substantially the same functionality, or terminate the license and refund the relevant license fee paid for such non-compliant Licensed Software, provided that you return the Licensed Software to the Licensor or its authorised reseller from whom you obtained it, together with the purchase receipt within the warranty period. This obligation of the Licensor is subject to your obligation to make available all information requested and that may be necessary to help the Licensor to remedy the defect or fault, including sufficient information to enable the Licensor to recreate the defect or fault.
+(c) The Licensor shall not be obliged to provide any updates for the Licensed Software, unless expressly agreed otherwise.
+(d) You are to take all such measures as are reasonable to avoid and reduce potential damages, such as by taking regular backups.
+(e) Subject to clause 4(a) above, the Licensed Software is provided to you “AS IS”. THE LICENSOR DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE LICENSED SOFTWARE AND SERVICES, THAT THE FUNCTIONS CONTAINED IN, OR SERVICES PERFORMED OR PROVIDED BY, THE LICENSED SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE LICENSED SOFTWARE OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT ANY SERVICES WILL CONTINUE TO BE MADE AVAILABLE, THAT THE LICENSED SOFTWARE OR SERVICES WILL BE COMPATIBLE OR WORK WITH ANY THIRD PARTY SOFTWARE, APPLICATIONS OR THIRD PARTY SERVICES, OR THAT DEFECTS IN THE LICENSED SOFTWARE OR SERVICES WILL BE CORRECTED. INSTALLATION OF THIS LICENSED SOFTWARE MAY AFFECT THE USABILITY OF THIRD-PARTY SOFTWARE, APPLICATIONS OR THIRD-PARTY SERVICES. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY THE LICENSOR OR AN AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY, WHETHER EXPRESS OR IMPLIED, OR IN ANY WAY ALTER THE SCOPE OF THIS LIMITED WARRANTY.
+(f) SAVE FOR AS PROVIDED IN CLAUSE 4 (b) ABOVE, SHOULD THE LICENSED SOFTWARE OR SERVICES PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+(g) IF YOU ARE A CONSUMER AND THE ABOVE LIMITATIONS ON OUR WARRANTIES ARE STATUTORILY NOT APPLICABLE IN FULL, THE RIGHTS GRANTED TO YOU AT LAW BEYOND THAT WHICH IS WARRANTED BY US ABOVE, SHALL BE INTERPRETED AS RESTRICTIVELY AS THE LAW ALLOWS FOR.
+
+5. Disclaimers
+
+(a) THE WARRANTIES SET FORTH IN CLAUSE 4 ABOVE ARE YOUR ONLY WARRANTIES AND ARE IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED. THE LICENSOR EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND WARRANTIES OF STATUTORY NON-INFRINGEMENT. NO THIRD PARTY, INCLUDING, WITHOUT LIMITATION, THE LICENSOR’S AGENTS, SUPPLIERS, DISTRIBUTORS AND AUTHORIZED RE-SELLERS, IS AUTHORISED TO MODIFY ANY OF THE ABOVE WARRANTIES ON BEHALF OFTHE LICENSOR.
+(b) YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, USE OF THE LICENSED SOFTWARE AND ANY SERVICES PERFORMED BY OR ACCESSED THROUGH THE LICENSED SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU.
+(c) YOU FURTHER ACKNOWLEDGE THAT THE LICENSED SOFTWARE AND SERVICES ARE NOT INTENDED OR SUITABLE FOR USE IN SITUATIONS OR ENVIRONMENTS WHERE THE FAILURE OR TIME DELAYS OF, OR ERRORS OR INACCURACIES IN, THE CONTENT, DATA OR INFORMATION PROVIDED BY THE LICENSED SOFTWARE OR SERVICES COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE, INCLUDING WITHOUT LIMITATION THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, LIFE SUPPORT OR WEAPONS SYSTEMS.
+(d) IF THE EXCLUSION OF ANY IMPLIED WARRANTIES IS RENDERED INAPPLICABLE AS A RESULT OF STATUTORILY MANDATED RULES, OR AS DEFINED BY SOME JURISDICTIONS, ANY SUCH IMPLIED WARRANTIES THAT ARE PRESCRIBED BY LAW, SHALL BE LIMITED TO THE BARE MINIMUM ALLOWED FOR BY THE SAME LAW AND SHALL NOT EXTEND IN DURATION BEYOND NINETY (90) DAYS FROM THE DATE OF PURCHASE OF THE LICENSED SOFTWARE OR TO THE MINIMUM PERIOD PRESCRIBED BY LAW. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS EULA SHALL EXCLUDE OR LIMIT ANY LIABILITY OF THE LICENSOR WHICH, BY LAW OR REGULATION APPLICABLE TO THIS EULA, CANNOT BE EXCLUDED OR LIMITED. FOR WARRANTY ASSISTANCE, CONTACT THE LICENSOR OR THE AUTHORISED RESELLER FROM WHOM YOU OBTAINED THE LICENSED SOFTWARE.
+(e) The Licensed Software may be used or utilised by technology providers, software providers or other third parties (each “the Service Provider”) to provide you with certain services, such as managed backup (“Managed Services”).
+We are not a party to the agreement or understanding that you have with the Service Provider in relation to the provision of Managed Services.
+The Service Provider shall be solely and fully responsible for providing you with the Managed Services and complying with the terms and conditions relating thereto, including any negligence, misconduct or breach.
+You shall keep us free and fully indemnified from and against any claim that you may have in relation to the Managed Services or to any breach of the Service Provider’s obligations towards you or for anything done or omitted to be done by the Service Provider in providing the Managed Services.
+
+6. Limitations on Liability
+
+(a)The Licensor shall not be liable whether in contract, (including for negligence or breach of statutory duty, howsoever arising), misrepresentation (whether innocent or negligent), restitution or otherwise, for:
+	1. any loss (whether direct or indirect) of profits, savings, business, business opportunities, revenue, turnover, reputation or goodwill;
+	2. any loss or corruption (whether direct or indirect) of data or information;
+	3. any loss (whether direct or indirect) of anticipated savings or wasted expenditure (including management time); or
+	4. any indirect or consequential loss or liability.
+(b) Unless excluded, the Licensor’s maximum aggregate liability for all loss, damage and expense arising under this EULA shall not exceed €10.
+(c) The Licensor does not exclude or limits liability for:
+	1. personal injury or death;
+	2. fraud or fraudulent misrepresentation;
+	3. any other liability to the extent that the same cannot be excluded or limited by law.
+
+7. Indemnification
+
+You agree to and do hereby indemnify, defend and hold harmless the Licensor and its parent, subsidiary, or affiliate organisations, officers, agents, suppliers, distributors and authorised re-sellers from any and all claims, losses, damages and expenses (including reasonable attorneys’ fees, legal expenses and court costs) asserted by any third party due to or arising out of your breach of any provision of this EULA, your use of the Licensed Software and Documentation, your negligent or wrongful acts, and/or your violation of any applicable laws.
+
+8. Termination of Your Rights
+
+Your rights to use the Licensed Software and Documentation as specified in clause 2 above shall terminate immediately and without notice to you if you fail to comply with any of the provisions of this EULA and/or any other agreement made in connection with this EULA, including a SPLA. Upon termination for any reason all rights granted to you under this License shall cease, you shall immediately discontinue the use of and destroy, delete or remove, the Licensed Software and Documentation, including, without limitation, any master copies, archival copies and all copies or portions thereof, that are in your possession or were installed on computer peripherals by you. Within ten (10) days of such termination you shall certify in writing to Licensor that all such copies have been destroyed. You hereby also consent to the Licensor and/or its agents, or employees, inspecting your computer peripherals under your supervision, to ensure that the Licensed Software and Documentation has been so deleted and/or destroyed.
+
+9. Compliance with Applicable Law
+
+Each party agrees to comply with all applicable laws, rules and regulations in connection with its activities under this EULA.
+
+10. Export Restrictions
+
+You agree to comply with all applicable export control laws, including the EU Common Foreign and Security Policy, the United States Export Administration Act, or any other export laws or regulations. By using the Licensed Software and Documentation, you represent and take full and sole responsibility that i) you are not located in or under the control of or a national or resident of any country or on any list which prohibit the exportation of the Licensed Software ii) to any person or entity who you know or have reason to know will utilize the Licensed Software or portion therefore in the design, development, production or use of nuclear, chemical or biological materials, facilities or weapons or iii) to any person or entity who has been prohibited from participating in U.S. by any federal agency of the U.S. government or EU export restrictions.
+
+11. Intellectual Property Rights
+
+The Licensed Software and related Documentation are copyrighted works of authorship and are also protected under applicable database laws. The Licensor retains ownership of the Licensed Software, all subsequent copies of the Licensed Software and all intellectual property rights subsisting therein, regardless of the form in which the copies may exist. This EULA is not a sale of the original Licensed Software or any copies thereof.
+
+12. Maintenance and Support
+
+If the Licensed Software includes and grants you the right for maintenance and support as defined in clause 2, these services will commence upon the date your order is processed and the license file is generated. You will receive support for your Licensed Software and any updates, enhancements or improvements that are included or defined in the Maintenance Policies. Licensed Software updates cannot be applied to the Licensed Software with an expired Software Maintenance Agreement. If the Licensed Software is an upgrade from an earlier release or previously released version, you are hereby authorised to use the upgrade only in accordance with this EULA. Consequently, any prior agreements with respect to earlier or previous versions of the Licensed Software shall be deemed null and void and superseded in all respects by this EULA.
+Updates and upgrades may be automatically downloaded and installed from time to time. These updates may consist of bug fixes, new features, or new versions. You expressly acknowledge and agree that updates or upgrades may not necessarily include all features of the previous version. You agree to receive such updates as part of the use of the Licensed Software. The terms of this EULA will govern such updates or upgrades, unless such update or upgrade is accompanied by a separate license in which case the terms of that license shall prevail.
+
+13. Privacy
+
+You acknowledge that the Licensor collects and process technical information for business purposes and improving the Licensed Software, as part of any product maintenance and support services provided to you, and any other technical information you provide to Licensor, provided that such information does not identify You, as a specific individual.
+(a) In the event that you provide personal information to Licensor as part of your purchase and use of the Software, or for obtaining Maintenance, or we other process personal data in our capacity as data processors (in terms of applicable data protection legislation), your personal information will be used, stored and processed in accordance with Hornetsecurity Privacy Policy, which can be found at https://www.hornetsecurity.com/en/privacy/. You also have the ability to update your preferences by visiting the Hornetsecurity Customer Portal.
+(b) The Licensed Software has the capability to collect and process technical information such as configuration, performance, usage, consumption data which may include the number of times you use the “restore” functionality, the size of the backup, hardware identification, operating system, application software, peripheral hardware, Internet Protocol Address, The Licensor shall under no circumstances ever collect or examine the contents of any files you are backing up or restoring, unless agreed to specifically between the two parties or required by specific circumstances, in which case you will be informed in advance.
+(c) The Licensed Software also provides the ability to generate error report to the licensor technical support team. During this error report generation process, which is done through manual user intervention, application debug data files, configuration files, log files, system information and personal information (Name, Email, Phone Number) will be generated and submitted for automatic support case generation.
+
+14. Compliance
+
+During the period this EULA remains in effect and for three (3) years following the termination of your rights pursuant to clause 8, Licensor has the right to verify your compliance with this EULA on your premises during your normal business hours and in a manner that minimises disruption to your business. The Licensor may use an independent auditor for this purpose with your prior approval which you shall not unreasonably withhold.
+
+15. Feature and Capacity Limitations in Software
+
+For certain Licensed Software, your use of the Licensed Software may be limited by the features and capacity purchased. In the event that you exceed the purchased capacity, the Licensed Software may not support certain features or process additional workloads beyond the maximum capacity until you purchase additional capacity or upgrade to another suitable version.
+
+16. Queries
+
+If you have any queries regarding this EULA, email info@hornetsecurity.com with the word ‘EULA’ as the subject line.
+
+17. Governing Language
+
+Any translation of this License from the English language is made solely for local requirements and in the event of a dispute between the English and any non-English versions, the English version of this License shall govern.
+
+18. General
+
+(a) Unless you have entered into a separate, written and signed agreement with the Licensor for the supply of Licensed Software, this EULA is the complete and exclusive statement of the agreement between you and the Licensor with respect to the Licensed Software and Documentation and the subject matter covered by this EULA and supersedes any and all prior or contemporaneous communications, proposals, agreements, purchase orders or similar terms issued by or to you, whether oral or written. No modification, amendment, waiver, termination or discharge of this EULA or of any of the terms and conditions hereof shall be binding upon either you or the Licensor unless confirmed by a written instrument signed by you and by a duly authorized officer of the Licensor. No waiver by you or the Licensor of any provision of this EULA or of any default hereunder shall affect your or the Licensor’s respective rights thereafter to enforce such provision, or to exercise any right or remedy, in the event of any other default, whether or not similar.
+(b) If any provision of this EULA shall be held void, voidable, invalid or inoperative, no other provision of this EULA shall be affected as a result thereof and, accordingly, the remaining provisions of this EULA shall remain in full force and effect as though such void, voidable, invalid or inoperative provision had not been contained herein.
+(c) This EULA shall be governed by and construed exclusively in accordance with the laws of Malta and without regard to principles of conflicts of law. Any and all actions, suits and proceedings arising out of or relating to this EULA shall be brought only in the courts of Malta, and the parties hereby unconditionally and irrevocably consent and submit to such exclusive jurisdiction and waive any objection that they may now or hereafter have with respect thereto.
+(d) We may transfer our rights and obligations under this License to another organization. We will inform you of such assignment. You may only assign your rights and obligations to another person if we agree in writing prior to the assignment taking place. A change of control shall constitute an assignment.
+(e) Licensor will not be liable for any delay or failure to perform obligations under this EULA due to any cause beyond its reasonable control, including acts of God, industrial disturbances, labor disputes, earthquakes, storms or other elements of nature; systematic electrical, telecommunications or other utility failures; riots; acts of terrorism; war; embargoes or acts or orders of government.
+(f) If we fail to insist that you perform any of your obligations under this License, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
+
