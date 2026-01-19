@@ -26,15 +26,25 @@ use Data::Dumper;
 sub api {
     # @_ = ['PVE::Storage::Custom::HseVmbPlugin']
 
-    # Proxmox 8.4 needs API 11
-    # Proxmox 9.0 needs API 12
+        # PVE 8.4 | APIVER 11 | e2dc01ac9f06 | new_backup_provider: sensitive_properties                | Used
+        # PVE 9   | APIVER 12 | 280bb6be777a | qemu_blockdev_options: rename_snapshot, get_formats      | Not used
+        # PVE 9   | APIVER 13 | 8818ff0d1d70 | add $hints to activate_volume(), map_volume() (unused)   | Not used
+        # PVE 9   | APIVER 13 | 0b1331ccda6d | add on_update_hook_full()                                | Not used
 
-    my $apiver = PVE::Storage::APIVER;
+        # For reference: https://github.com/proxmox/pve-storage/commits/master/
 
-    return 11
-        if $apiver == 11;
+        my $supported_minver = 11;
+        my $supported_maxver = 13;
 
-    return 12;
+        my $apiver = PVE::Storage::APIVER;
+
+        # Check if the API version is within our supported range
+        if ($apiver >= $supported_minver && $apiver <= $supported_maxver) {
+            return $apiver;
+        }
+        else {
+            return $supported_maxver;
+        }
 }
 
 sub type {

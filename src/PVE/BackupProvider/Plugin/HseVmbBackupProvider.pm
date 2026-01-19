@@ -27,8 +27,8 @@ use IO::Socket::UNIX;
 use JSON;
 
 # constants
-use constant PLUGIN_PACKAGE_VERSION => "2.0.2.0";
-use constant PLUGIN_VERSION => "2.0.2.0";
+use constant PLUGIN_PACKAGE_VERSION => "2.1.0.0";
+use constant PLUGIN_VERSION => "2.1.0.0";
 
 # constructor
 sub new {

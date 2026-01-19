@@ -1,3 +1,9 @@
+libhse-vmb-pveplugin (2.1.0.0) bookworm; urgency=low
+
+  * Resolves AVMB-6757.
+
+ -- Hornetsecurity Support Team <support@hornetsecurity.com>  Tue, 16 Dec 2025 11:54:28 +0100
+
 libhse-vmb-pveplugin (2.0.2.0) bookworm; urgency=low
 
   * Resolves AVMB-6721.
